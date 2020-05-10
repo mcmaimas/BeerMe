@@ -1,2 +1,1 @@
-# BeerMe
-123456
+https://mcmaimas.github.io/BeerMe/
